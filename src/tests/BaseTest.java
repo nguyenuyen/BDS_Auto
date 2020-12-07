@@ -1,3 +1,4 @@
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
@@ -8,8 +9,9 @@ public class BaseTest {
 
     @BeforeMethod
     public void setUp() {
+        WebDriverManager.chromedriver().version("87").setup();
         webDriver = new ChromeDriver();
-        webDriver.get(Links.URL);
+        webDriver.get(Links.URL_PROPERTY);
     }
 
     @AfterMethod

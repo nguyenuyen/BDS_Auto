@@ -1,0 +1,45 @@
+public class ElementCreateProperty {
+    public static final String TYPE_BUY = "//div[@class='par-layout']/div[contains(@class,'ng-star-inserted')][1]/span";
+    public static final String TYPE_RENT = "//div[@class='par-layout']/div[contains(@class,'ng-star-inserted')][2]/span";
+    public static final String IS_BUILDING_ONE = "//input[@type='radio'][1]";
+    public static final String IS_BUILDING_MANY = "//input[@type='radio'][2]";
+    public static final String BUY_TIME = "//input[@type='date'][1]";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+    public static final String USERNAME = "//input[@formcontrolname='username']";
+
+}
