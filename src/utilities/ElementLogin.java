@@ -4,8 +4,4 @@ public class ElementLogin {
     public static final String USERNAME = "//input[@formcontrolname='username']";
     public static final String PASSWORD = "//input[@formcontrolname='password']";
     public static final String BTN_LOGIN = "//button[@class='btn-login']";
-   // public static final String BTN_LOGIN = "//span[text()='プロフィール更新']";
-
-
-
 }

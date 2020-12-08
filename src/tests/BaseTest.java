@@ -12,6 +12,7 @@ public class BaseTest {
         WebDriverManager.chromedriver().version("87").setup();
         webDriver = new ChromeDriver();
         webDriver.get(Links.URL_PROPERTY);
+        webDriver.manage().window().maximize();
     }
 
     @AfterMethod
